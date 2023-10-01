@@ -1,4 +1,4 @@
-$( document ).ready(function() {
+$(document).ready(function () {
 	// $(".footer-links-wrapper h3").click(function(){
 	// 	// if ($(window).width() < 768) {
 	// 		$(this).next('ul').slideToggle();
@@ -51,7 +51,7 @@ $( document ).ready(function() {
 		"https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/b3/fa/77/b3fa7718-b692-ca56-87ce-5af818a447f7/955d54ab-6986-4e68-981d-b11df46a0029.png/274x593.jpg",
 	];
 
-	for (let i = 1; i < data.length; i++) {
+	for (let i = 0; i < data.length; i++) {
 		let imgLink = data[i];
 		$(".slides").append(
 			`<div class="slide">
@@ -60,7 +60,6 @@ $( document ).ready(function() {
 		);
 	}
 
-	
 	// Function to move the slides
 	function moveSlides() {
 		if (!isPaused) {
@@ -95,5 +94,3 @@ $( document ).ready(function() {
 		}
 	});
 });
-
-
