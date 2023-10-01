@@ -1,8 +1,8 @@
-body{
-	font-family: 'Montserrat', sans-serif;
+body {
+	font-family: "Montserrat", sans-serif;
 }
-a{
-	color: #06c; 
+a {
+	color: #06c;
 }
 img {
 	max-width: 100%;
@@ -18,9 +18,9 @@ img {
 }
 /* Header */
 .nav-tool {
-  background: rgba(0,0,0,0.8);
-  font-size: 0.85em;
-  font-weight: 200;
+	background: rgba(0, 0, 0, 0.8);
+	font-size: 0.85em;
+	font-weight: 200;
 }
 .nav-tool ul li a {
 	color: #fff;
@@ -62,25 +62,25 @@ img {
 	margin: 0 auto;
 }
 /* iPad Pro */
-.iPad-Pro{
+.iPad-Pro {
 	background-image: url("../images/home/ipodPronew-sm.jpg");
 	height: 580px;
 	background-position: bottom;
 	background-repeat: no-repeat;
-  background-size: initial;
-  background-color: #fbfbfd;
+	background-size: initial;
+	background-color: #fbfbfd;
 	text-align: center;
 	padding: 65px 20px;
-	color: #fff;	
+	color: #fff;
 	margin-bottom: 10px;
 }
 .ipad-caption {
 	color: #86868b;
 	font-size: 12px;
-  line-height: 1.33337;
-  font-weight: 400;
-  letter-spacing: -.01em;		
-  padding-top: 310px;
+	line-height: 1.33337;
+	font-weight: 400;
+	letter-spacing: -0.01em;
+	padding-top: 310px;
 }
 /* MacBook Air */
 .Macbook {
@@ -88,12 +88,12 @@ img {
 	height: 580px;
 	background-position: bottom;
 	background-repeat: no-repeat;
- 	background-size: initial;
-  	background-color: #fbfbfd;
+	background-size: initial;
+	background-color: #fbfbfd;
 	text-align: center;
 	padding: 65px 20px;
 	color: #fff;
-	margin-bottom: 10px;	
+	margin-bottom: 10px;
 }
 /* iPhone 11 Pro */
 .iPhone-11-Pro {
@@ -101,48 +101,48 @@ img {
 	height: 580px;
 	background-position: center;
 	background-repeat: no-repeat;
-  	background-size: cover;
+	background-size: cover;
 	text-align: center;
 	padding: 65px 20px;
 	color: #fff;
 }
 /* iPhone11 & COVID-19 */
-.iPhone11-COVID-19 .left-side-wrapper .left-side-container{
-	background-image:  url("../images/home/iphone11-colored.jpg"); 
+.iPhone11-COVID-19 .left-side-wrapper .left-side-container {
+	background-image: url("../images/home/iphone11-colored.jpg");
 	background-color: #000;
 	padding-top: 35px;
 	margin: 0 0 10px 0;
-	background-size: cover;		
+	background-size: cover;
 }
-.iPhone11-COVID-19 .right-side-wrapper .right-side-container{
-	background-image:  url("../images/home/apple-blue-logo.jpg"); 
+.iPhone11-COVID-19 .right-side-wrapper .right-side-container {
+	background-image: url("../images/home/apple-blue-logo.jpg");
 	background-color: #165ca9;
 	background-position: bottom;
 	padding-top: 35px;
 	margin: 0 0 10px 0;
-	background-size: auto;	
+	background-size: auto;
 }
 .links-wrapper.white li a {
 	color: #fff;
 }
 .iPhone11-COVID-19 .right-side-wrapper .title-wraper {
-    max-width: 380px;
+	max-width: 380px;
 }
 /* Apple TV & Watch*/
-.AppleTV-Watch .left-side-wrapper .left-side-container{
-	background-image:  url("../images/home/actors.jpg"); 
+.AppleTV-Watch .left-side-wrapper .left-side-container {
+	background-image: url("../images/home/actors.jpg");
 	background-color: #000;
 	padding-top: 35px;
 	margin: 0 0 10px 0;
-	background-size: cover;		
+	background-size: cover;
 }
-.AppleTV-Watch .right-side-wrapper .right-side-container{
-	background-image:  url("../images/home/watch.jpg"); 
+.AppleTV-Watch .right-side-wrapper .right-side-container {
+	background-image: url("../images/home/watch.jpg");
 	background-color: #fbfbfd;
 	background-position: bottom;
 	padding-top: 35px;
 	margin: 0 0 10px 0;
-	background-size: auto;	
+	background-size: auto;
 }
 .AppleTV-Watch .description-wraper {
 	max-width: 450px;
@@ -154,52 +154,52 @@ img {
 	color: #fff;
 }
 .watch-more-wrapper a:after {
-  font-family: "FontAwesome";
-  font-weight: 900;
-  content: "\f144";
-  padding-left: 15px;
+	font-family: "FontAwesome";
+	font-weight: 900;
+	content: "\f144";
+	padding-left: 15px;
 }
 .tvshow-logo-wraper {
 	padding: 340px 0 0px;
 }
 /* Arcade & Apple Card*/
-.Arcade-AppleCard .left-side-wrapper .left-side-container{
-	background-image:  url("../images/home/spyder.jpg"); 
+.Arcade-AppleCard .left-side-wrapper .left-side-container {
+	background-image: url("../images/home/spyder.jpg");
 	background-color: #000;
 	background-position: bottom;
 	padding-top: 35px;
 	margin: 0 0 10px 0;
-	background-size: cover;		
+	background-size: cover;
 }
-.Arcade-AppleCard .right-side-wrapper .right-side-container{
-	background-image:  url("../images/home/apple-card-monthly.jpg"); 
+.Arcade-AppleCard .right-side-wrapper .right-side-container {
+	background-image: url("../images/home/apple-card-monthly.jpg");
 	background-color: #fbfbfd;
 	background-position: bottom;
 	padding-top: 35px;
 	margin: 0 0 10px 0;
-	background-size: auto;	
+	background-size: auto;
 }
 .left-side-container {
 	min-height: 515px;
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
-	text-align: center;	
+	text-align: center;
 }
 .right-side-container {
 	min-height: 515px;
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
-	text-align: center;	
+	text-align: center;
 }
 .left-side-wrapper {
-  padding-right: 0px;
-  padding-left: 0px;
+	padding-right: 0px;
+	padding-left: 0px;
 }
 .right-side-wrapper {
-  padding-right: 0px;
-  padding-left: 0px;
+	padding-right: 0px;
+	padding-left: 0px;
 }
 .Arcade-AppleCard .links-wrapper {
 	max-width: 300px;
@@ -219,7 +219,7 @@ img {
 	max-width: 250px;
 	margin: 7px auto;
 }
-.description-wraper.white{
+.description-wraper.white {
 	color: white;
 }
 .links-wrapper {
@@ -238,36 +238,36 @@ img {
 	color: #000;
 }
 .links-wrapper ul li a:after {
-  font-family: "FontAwesome";
-  font-weight: 900;
-  content: "\f105";
-  padding-left: 10px;
+	font-family: "FontAwesome";
+	font-weight: 900;
+	content: "\f105";
+	padding-left: 10px;
 }
 .title-wraper {
-  font-weight: 600;
-  font-size: 30px;
-  line-height: 1.15em;
-  letter-spacing: -0.04em;
+	font-weight: 600;
+	font-size: 30px;
+	line-height: 1.15em;
+	letter-spacing: -0.04em;
 }
 .title-wraper.bold {
-  font-weight: 600;
-  font-size: 32px;
-  line-height: 1.15em;
-  letter-spacing: -0.04em;
+	font-weight: 600;
+	font-size: 32px;
+	line-height: 1.15em;
+	letter-spacing: -0.04em;
 }
 .right-side-wrapper .title-wraper {
 	max-width: 280px;
 	margin: 0 auto;
-} 
+}
 .description-wrapper {
 	font-size: 26px;
 	padding: 10px 0;
 }
 /* Footer */
 .footer {
-  background-color: #f5f5f7;
-  color: #86868b;
-  font-size: .7em;
+	background-color: #f5f5f7;
+	color: #86868b;
+	font-size: 0.7em;
 }
 .footer ul {
 	list-style: none;
@@ -279,7 +279,7 @@ img {
 }
 .my-apple-wrapper {
 	padding-bottom: 15px;
-  margin-top: 10px;
+	margin-top: 10px;
 }
 .copyright {
 	margin-top: 15px;
@@ -292,7 +292,7 @@ img {
 	vertical-align: middle;
 	padding-right: 5px;
 }
-.footer-country-name{
+.footer-country-name {
 	display: inline-block;
 	vertical-align: middle;
 }
@@ -303,7 +303,7 @@ img {
 	padding: 0 10px;
 	border-right: 1px solid #d2d2d7;
 }
-.footer-links-terms ul li a{
+.footer-links-terms ul li a {
 	padding: 0 10px;
 }
 .footer-links-terms ul li:first-child {
@@ -318,7 +318,7 @@ img {
 	font-weight: 600;
 	color: #1d1d1f;
 }
-.footer ul li{
+.footer ul li {
 	padding: 4px 0;
 }
 .upper-text-container {
@@ -329,9 +329,53 @@ img {
 .upper-text-container a {
 	color: #515154;
 }
+
+/* Carousel */
+
+.carousel {
+	width: 100%;
+	overflow: hidden;
+}
+
+.slides {
+	position: relative;
+	display: flex;
+	transition: transform 0.5s ease-in-out;
+}
+
+.slide {
+	width: 100%;
+	height: 500px;
+	opacity: 0.5;
+}
+
+.slide:hover {
+	opacity: 1;
+}
+
+#pause {
+	color: white;
+	font-size: 24px;
+}
+
+.circle-container {
+	cursor: pointer;
+	z-index: 100;
+	position: absolute;
+	bottom: 20px;
+	right: 20px;
+	border: 3px solid white;
+	border-radius: 100%;
+	width: 50px;
+	height: 50px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
 /*Media Query*/
 /* Footer */
-@media (max-width: 768px){
+@media (max-width: 768px) {
 	.footer-links-wrapper ul {
 		display: none;
 	}
@@ -340,7 +384,7 @@ img {
 		content: "\f068";
 		padding-left: 10px;
 		position: absolute;
-		right: 25px;;
+		right: 25px;
 	}
 	.footer-links-wrapper h3 {
 		padding: 10px 0;
@@ -360,7 +404,7 @@ img {
 		text-align: center !important;
 		padding: 0;
 		border-bottom: 0px;
-	}	
+	}
 	/*Alert section*/
 	.alert-text {
 		max-width: 85%;
@@ -370,50 +414,50 @@ img {
 	.iPad-Pro {
 		background-image: url("../images/home/ipodPronew.jpg");
 		min-height: 692px;
-	}	
+	}
 	.ipad-caption {
-	  padding-top: 415px;
-	}	
+		padding-top: 415px;
+	}
 	/* Second section */
 	.Macbook {
 		min-height: 692px;
 		background-image: url("../images/home/macbookair-new.jpg");
 	}
 	.new-alert {
-		color: #BF4801;
+		color: #bf4801;
 		font-size: 18px;
-	}	
+	}
 	/*fourth section*/
 	.iPhone11-COVID-19 .left-side-wrapper .left-side-container {
-	    margin: 10px 5px 5px 10px;
+		margin: 10px 5px 5px 10px;
 	}
 	.iPhone11-COVID-19 .right-side-wrapper .right-side-container {
-	    margin: 10px 10px 5px 5px;
-	}		
+		margin: 10px 10px 5px 5px;
+	}
 	.title-wraper.bold {
-	  font-size: 56px;
+		font-size: 56px;
 	}
 	/*Fifth section*/
 	.AppleTV-Watch .left-side-wrapper .left-side-container {
-	    margin: 5px 5px 5px 10px;
+		margin: 5px 5px 5px 10px;
 	}
 	.AppleTV-Watch .right-side-wrapper .right-side-container {
-	    margin: 5px 10px 5px 5px;
+		margin: 5px 10px 5px 5px;
 	}
 	/*Sixth section*/
 	.Arcade-AppleCard .left-side-wrapper .left-side-container {
-	    margin: 5px 5px 10px 10px;
+		margin: 5px 5px 10px 10px;
 	}
 	.Arcade-AppleCard .right-side-wrapper .right-side-container {
-	    margin: 5px 10px 10px 5px;
-	}	
+		margin: 5px 10px 10px 5px;
+	}
 	.Arcade-AppleCard .links-wrapper {
-	    max-width: 500px;
-	}	
+		max-width: 500px;
+	}
 	/*Footer styling*/
 	.my-apple-wrapper {
-		border-bottom: 1px solid #d2d2d7
-	}	
+		border-bottom: 1px solid #d2d2d7;
+	}
 }
 @media (min-width: 992px) {
 	/*Footer styling*/
@@ -425,5 +469,5 @@ img {
 	}
 	.footer-links-terms {
 		margin-top: 10px;
-	}	
+	}
 }
